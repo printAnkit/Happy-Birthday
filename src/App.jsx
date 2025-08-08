@@ -2,16 +2,12 @@ import { useState, useEffect } from "react"
 import { Heart, Gift, Sparkles } from "lucide-react"
 
 const memoryPhotos = [
-  { src: "/images/khusi-1.jpeg", alt: "Beautiful Khusi in peach outfit" },
-  { src: "/images/khusi-2.jpeg", alt: "Khusi with flower emoji" },
-  { src: "/images/khusi-3.jpeg", alt: "Khusi in pink lace at the mall" },
-  { src: "/images/khusi-4.jpeg", alt: "Mirror selfie in burgundy" },
-  { src: "/images/khusi-5.jpeg", alt: "Khusi in white patterned dress" },
-  { src: "/images/khusi-6.jpeg", alt: "Graduation day in purple gown" },
-  { src: "/images/khusi-7.jpeg", alt: "Vintage style photo" },
-  { src: "/images/khusi-8.jpeg", alt: "Red top at temple" },
-  { src: "/images/khusi-9.jpeg", alt: "Black dress mirror selfie" },
-  { src: "/images/khusi-10.jpeg", alt: "Purple shirt heart gesture" },
+  { src: "/images/nidhi-1.jpeg", alt: "Beautiful Khusi in peach outfit" },
+  { src: "/images/nidhi-2.jpeg", alt: "Khusi with flower emoji" },
+  { src: "/images/nidhi-3.jpeg", alt: "Khusi in pink lace at the mall" },
+  { src: "/images/nidhi-4.jpeg", alt: "Mirror selfie in burgundy" },
+  { src: "/images/nidhi-5.jpeg", alt: "Khusi in white patterned dress" },
+  { src: "/images/nidhi-6.jpeg", alt: "Graduation day in purple gown" },
 ]
 
 export default function KhusiBirthdayPage() {
@@ -78,7 +74,7 @@ export default function KhusiBirthdayPage() {
             </h1>
 
             <h2 className="text-6xl md:text-8xl font-bold text-transparent bg-gradient-to-r from-pink-700 via-purple-700 to-rose-700 bg-clip-text mb-8 animate-float">
-              💕 Khushi 💕
+              💕 Nidhi 💕
             </h2>
 
             <div className="flex justify-center items-center gap-6 mb-12">
